@@ -61,10 +61,10 @@
  
 
 button{
-    align-self: center;
+    /* align-self: center; */
     margin-top: 2%;
     margin-bottom: 1%;
-    margin-left: 600px;
+    margin-left: 900px;
     height: 60px;
     background:rgba(112, 206, 235, 0.932) ;
     color: rgb(245, 238, 238);
